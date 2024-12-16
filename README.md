@@ -3,7 +3,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm AA Olatunde 🤓, a Data/Research analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+HI! I'm AA Olatunde 🤓, a Data/Research analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
