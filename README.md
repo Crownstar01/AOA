@@ -71,7 +71,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://linkedin.com/in/AbdulbasitAbdulmuninOlatunde">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
