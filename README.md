@@ -3,25 +3,44 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-HI! I'm AA Olatunde 🤓, a Data/Research analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hi! I'm AA Olatunde 🤓, a Business Intelligence Analyst, Research Analyst, Educator, and Consultant passionate about transforming data into actionable insights. With expertise spanning sales, operations, finance, and customer service, I help businesses tackle challenges and drive growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Business Intelligence/Research Analyst of NIGERIAN BEVERAGES, TechMentor Africa and Crownstar Data Anaytics, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As the Business Intelligence Analyst at Nigerian Beverages, my responsibilities include:  
+- Developing reporting and analytics to support sales activities while providing strategic recommendations to enhance the sales process.  
+- Ensuring seamless access to stored data for both internal and external teams.  
+- Responding promptly to staff inquiries and information requests.  
+- Assisting in the creation of strategies aimed at expanding the company’s customer base.  
+- Identifying opportunities for cross-functional collaboration.  
+- Building strong internal relationships to align with business objectives.  
+- Researching, developing, refining, and implementing data collection processes.  
+- Preparing daily, weekly, and monthly one-page reports for management, offering data-driven insights for decision-making.  
+- Analyzing market data to identify patterns and trends.
 
+As the Research Analyst at TechMentor Africa and Crownstar Data Anaytics, I provide consulting and training services for businesses and mentor aspiring analysts by tutoring :
+-Introduction to Research Methodologies
+- Research Design and Data Collection Methods
+- Descriptive Statistics and Data Visualization
+- Probability and Distributions
+- Hypothesis Testing and Inferential Statistics
+- Correlation and Regression Analysis
+- Reporting and Presenting Research Findings
+Using Statistical Software and Tools like Microsoft office tools, Google forms, SPSS and R programming language.
+ 
 **- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+I deliver comprehensive data analysis and customized solutions designed to empower informed decision-making, streamline operations, and enhance overall business performance, ensuring sustainable growth and competitive advantage.
 
 **- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+I provide comprehensive training programs covering data analysis, visualization, and data-driven decision-making, tailored for all skill levels—from beginners looking to build a strong foundation to advanced learners seeking to refine their expertise. 
 
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
-*A glimpse of some of the projects I've been working on.*
+*A brief look at some of the exciting projects I’ve been working on.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 ![image](AA Olatunde.jpg)
