@@ -43,7 +43,7 @@ I provide comprehensive training programs covering data analysis, visualization,
 *A brief look at some of the exciting projects I’ve been working on.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](AA Olatunde.jpg)
+![image](Image.jpg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -56,7 +56,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https:)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
@@ -69,7 +69,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 ## CONTACT DETAILS
 
-*Let’s connect and see how we can make a difference together!*
+*Let’s connect and explore how we can create a meaningful impact together!*
 <table>
   <tbody>
     <tr>
