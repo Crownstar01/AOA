@@ -94,7 +94,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="#">Watch my tutorials on YouTube</a></td>
+      <td><a href="#">Back to the top</a></td>
     </tr>
   </tbody>
 </table>
