@@ -9,7 +9,7 @@ Hi! I'm AA Olatunde 🤓, a Business Intelligence Analyst, Research Analyst, Edu
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Business Intelligence Analyst at Nigerian Beverages, my responsibilities include:  
+As the Business Intelligence Analyst at Nigerian Beverages, my responsibilities include:  
 - Developing reporting and analytics to support sales activities while providing strategic recommendations to enhance the sales process.  
 - Ensuring seamless access to stored data for both internal and external teams.  
 - Responding promptly to staff inquiries and information requests.  
@@ -74,7 +74,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:Abdulbasitabdulmumin0@gmail.com">Crownstar@gmail.com</a></td>
+      <td><a href="mailto:Abdulbasitabdulmumin0@gmail.com">CrownstarDataAnalytics@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
@@ -86,15 +86,15 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="Abdulbasit Olatude Abdulmumin.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/AbdulbasitAbdulmuninOlatunde">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/abdulbasit-abdulmumin8110567538">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="#">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
