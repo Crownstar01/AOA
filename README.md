@@ -3,7 +3,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi! I'm AA Olatunde 🤓, a Business Intelligence Analyst, Research Analyst, Educator, and Consultant passionate about transforming data into actionable insights. With expertise spanning sales, operations, finance, and customer service, I help businesses tackle challenges and drive growth.
+Hi! I'm AA Olatunde 🤓, a Business Intelligence Analyst, Research Analyst, Statistician, Educator, and Consultant passionate about transforming data into actionable insights. With expertise spanning sales, operations, finance, and customer service, I help businesses tackle challenges and drive growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -43,7 +43,7 @@ I provide comprehensive training programs covering data analysis, visualization,
 *A brief look at some of the exciting projects I’ve been working on.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](Image.jpg)
+![image](Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
