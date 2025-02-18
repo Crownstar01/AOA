@@ -52,15 +52,15 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
-[Read More](https:)
+[Read More](https:Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image](Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
