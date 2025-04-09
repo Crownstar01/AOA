@@ -42,7 +42,7 @@ I provide comprehensive training programs covering data analysis, visualization,
 
 *A brief look at some of the exciting projects I’ve been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Predictive Modeling and Hypothesis Testing using The Crude oil Dataset.**
 ![image](Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
@@ -50,7 +50,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Predictive Modeling and Hypothesis Testing using The Crude oil Dataset.**
 
 ![image](Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
 
@@ -64,7 +64,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+<a href="17 How to Present Data to Executives by PDF file_link ">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
