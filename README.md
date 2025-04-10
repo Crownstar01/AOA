@@ -74,7 +74,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:Abdulbasitabdulmumin0@gmail.com">CrownstarDataAnalytics@gmail.com</a></td>
+      <td><a href="mailto:Abdulbasitabdulmumin0@gmail.com">Email Us</a></td>
     </tr>
     <tr>
       <td>📞</td>
@@ -86,7 +86,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="Abdulbasit Olatude Abdulmumin.pdf">Download my CV</a></td>
+      <td><a href="ABDULMUMIN Abdulbasit Olatunde-CV.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
