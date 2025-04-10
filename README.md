@@ -3,7 +3,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi! I'm AA Olatunde 🤓, a Business Intelligence Analyst, Research Analyst, Statistician, Educator, and Consultant passionate about transforming data into actionable insights. With expertise spanning sales, operations, finance, and customer service, I help businesses tackle challenges and drive growth.
+Hi! I'm AA Olatunde 😊, a Business Intelligence Analyst, Research Analyst, Statistician, Educator, and Consultant passionate about transforming data into actionable insights. With expertise spanning sales, operations, finance, and customer service, I help businesses tackle challenges and drive growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
