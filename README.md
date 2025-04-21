@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8eaf89be-db26-49ef-bf89-13833193ed81)**Abdulbasit Abdulmumin Olatunde**
+**Abdulbasit Abdulmumin Olatunde**
 
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
@@ -64,7 +64,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 Fortunately, there was a massive year-over-year growth: Sales rose from $2.42M in 2022 to $12.02M in 2023 (~397% increase). 
 
-<a href="17 How to Present Data to Executives by PDF file_link ">Download the Report here (pdf file)</a>
+<a href="Coca-Cola Retailer Dashboard.xlsx">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
