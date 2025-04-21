@@ -42,13 +42,13 @@ I provide comprehensive training programs covering data analysis, visualization,
 
 *A brief look at some of the exciting projects I’ve been working on.*
 
-**Predictive Modeling and Hypothesis Testing using The Crude oil Dataset.**
+**Hypothesis Testing using The Preganancy termination dataset gotten from the Nigeria Demographic and Health Survey, 2018.**
 ![image](Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+The results of the Logistic regression analysis reveal several significant predictors of pregnancy termination in Northen and Southern parts of Nigeria.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](<a href="The Influence of Pregnancy Termination in Nigeria.pdf">Download the full Report here (pdf file)</a>)
 
 **Predictive Modeling and Hypothesis Testing using The Crude oil Dataset.**
 
@@ -64,8 +64,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 Fortunately, there was a massive year-over-year growth: Sales rose from $2.42M in 2022 to $12.02M in 2023 (~397% increase). 
 
-<a href="Coca-Cola Retailer Dashboard.xlsx">Download the full Report here (pdf file)</a>
-
+<a href="Coca-Cola Retailer Dashboard.xlsx">Download full Report here (pdf file)</a>
 
 ## CONTACT DETAILS
 
