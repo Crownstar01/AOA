@@ -74,7 +74,7 @@ Fortunately, there was a massive year-over-year growth: Sales rose from $2.42M i
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:Abdulbasitabdulmumin0@gmail.com">Email Us</a></td>
+      <td><a href="mailto: abdulbasitabdulmumin0@gmail.com">Email Us here</a></td>
     </tr>
     <tr>
       <td>📞</td>
@@ -101,8 +101,5 @@ Fortunately, there was a massive year-over-year growth: Sales rose from $2.42M i
 
    
 
-
-
-
-Raw File by AA Olatunde
-Displaying Raw File by Crownstar Data Analytics.
+*Raw File by AA Olatunde
+*Displaying Raw File by Crownstar Data Analytics.
