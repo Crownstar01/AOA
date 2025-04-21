@@ -1,4 +1,4 @@
-**Abdulbasit Abdulmumin Olatunde**
+![image](https://github.com/user-attachments/assets/8eaf89be-db26-49ef-bf89-13833193ed81)**Abdulbasit Abdulmumin Olatunde**
 
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
@@ -58,11 +58,11 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 [Read More](https:Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Sales Dashboard using the Coca-Cola retailer dataset.**
 
-![image](Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
+![image](Coca-Cola Sales Dashboard.png)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+Fortunately, there was a massive year-over-year growth: Sales rose from $2.42M in 2022 to $12.02M in 2023 (~397% increase). 
 
 <a href="17 How to Present Data to Executives by PDF file_link ">Download the Report here (pdf file)</a>
 
