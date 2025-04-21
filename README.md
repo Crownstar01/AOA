@@ -64,7 +64,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 Fortunately, there was a massive year-over-year growth: Sales rose from $2.42M in 2022 to $12.02M in 2023 (~397% increase). 
 
-<a href="Coca-Cola Retailer Dashboard.xlsx">Download the Report here (pdf file)</a>
+<a href="Coca-Cola Retailer Dashboard.xlsx">Download the full Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
