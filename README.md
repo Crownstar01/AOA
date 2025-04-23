@@ -64,8 +64,9 @@ The results of the Logistic regression analysis reveal several significant predi
 
 Fortunately, there was a massive year-over-year growth: Sales rose from $2.42M in 2022 to $12.02M in 2023 (~397% increase). 
 
-<a href="Coca-Cola Retailer Dashboard.xlsx">Download full Report here (pdf file)</a>
+<a href="Coca-Cola Retailer Dashboard.xlsx">Download full Report here (Excel file)</a>
 
+<a href="[Coca-Cola Retailer Dashboard.xlsx](https://docs.google.com/spreadsheets/d/13LrRvoRGVLhV_5XQDc9abCs8IEqI-hPq/edit?usp=drive_link&ouid=118335070621703365749&rtpof=true&sd=true)">click here for more exciting Report </a>
 ## CONTACT DETAILS
 
 *Let’s connect and explore how we can create a meaningful impact together!*
