@@ -66,7 +66,7 @@ Fortunately, there was a massive year-over-year growth: Sales rose from $2.42M i
 
 <a href="Coca-Cola Retailer Dashboard.xlsx">Download full Report here (Excel file)</a>
 
-<a href="[[https://docs.google.com/spreadsheets/d/1Xy6sUhWcpdAGJVWYYNwQLZLHDhEszV2D/edit?usp=drive_link&ouid=118335070621703365749&rtpof=true&sd=true]">Click here for more exciting Reports </a>
+<a href="https://docs.google.com/spreadsheets/d/1Xy6sUhWcpdAGJVWYYNwQLZLHDhEszV2D/edit?usp=drive_link&ouid=118335070621703365749&rtpof=true&sd=true">Click here for more exciting Reports </a>
 ## CONTACT DETAILS
 
 *Let’s connect and explore how we can create a meaningful impact together!*
