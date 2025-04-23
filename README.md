@@ -42,8 +42,9 @@ I provide comprehensive training programs covering data analysis, visualization,
 
 *A brief look at some of the exciting projects I’ve been working on.*
 
-**Hypothesis Testing using The Preganancy termination dataset gotten from the Nigeria Demographic and Health Survey, 2018.**
+**Business Analysis of the Flight Status report.**
 ![image](Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
+[Read More](<a href="Flight Report.pbix">Download the full Report here (pdf file)</a>)
 
 The results of the Logistic regression analysis reveal several significant predictors of pregnancy termination in Northen and Southern parts of Nigeria.
 
