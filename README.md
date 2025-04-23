@@ -42,22 +42,19 @@ I provide comprehensive training programs covering data analysis, visualization,
 
 *A brief look at some of the exciting projects I’ve been working on.*
 
-**Business Analysis of the Flight Status report.**
+**Power BI Projects: Business Analysis of the Flight Status report, HR Analytics, and Sales Dashboard.**
 ![image](Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
 [Read More](<a href="Flight Report.pbix">Download the full Report here (pdf file)</a>)
-
-The results of the Logistic regression analysis reveal several significant predictors of pregnancy termination in Northen and Southern parts of Nigeria.
-
-
-[Read More](<a href="The Influence of Pregnancy Termination in Nigeria.pdf">Download the full Report here (pdf file)</a>)
 
 **Predictive Modeling and Hypothesis Testing using The Crude oil Dataset.**
 
 ![image](Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+The results of the Logistic regression analysis reveal several significant predictors of pregnancy termination in Northen and Southern parts of Nigeria.
 
-[Read More](https:Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
+[Read More](<a href="The Influence of Pregnancy Termination in Nigeria.pdf">Download the full Report here (pdf file)</a>)
+
+[Read More](https:Interactive and dynamic Dashboard r)
 
 **Sales Dashboard using the Coca-Cola retailer dataset.**
 
@@ -101,5 +98,6 @@ Fortunately, there was a massive year-over-year growth: Sales rose from $2.42M i
 
    
 
-*Raw File by AA Olatunde
+
+
 *Displaying Raw File by Crownstar Data Analytics.
