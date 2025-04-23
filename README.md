@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi! I'm AA Olatunde 😊, a Business Intelligence Analyst, Research Analyst, Statistician, Educator, and Consultant passionate about transforming data into actionable insights. With expertise spanning sales, operations, finance, and customer service, I help businesses tackle challenges and drive growth.
+Hi!, I'm AA Olatunde 😊, a Business Intelligence Analyst, Research Analyst, Statistician, Educator, and Consultant passionate about transforming data into actionable insights. With expertise spanning sales, operations, finance, and customer service, I help businesses tackle challenges and drive growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -66,7 +66,7 @@ Fortunately, there was a massive year-over-year growth: Sales rose from $2.42M i
 
 <a href="Coca-Cola Retailer Dashboard.xlsx">Download full Report here (Excel file)</a>
 
-<a href="[[https://docs.google.com/spreadsheets/d/1Xy6sUhWcpdAGJVWYYNwQLZLHDhEszV2D/edit?usp=drive_link&ouid=118335070621703365749&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/13LrRvoRGVLhV_5XQDc9abCs8IEqI-hPq/edit?usp=drive_link&ouid=118335070621703365749&rtpof=true&sd=true)">click here for more exciting Report </a>
+<a href="[[https://docs.google.com/spreadsheets/d/1Xy6sUhWcpdAGJVWYYNwQLZLHDhEszV2D/edit?usp=drive_link&ouid=118335070621703365749&rtpof=true&sd=true]">Click here for more exciting Reports </a>
 ## CONTACT DETAILS
 
 *Let’s connect and explore how we can create a meaningful impact together!*
