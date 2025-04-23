@@ -44,7 +44,9 @@ I provide comprehensive training programs covering data analysis, visualization,
 
 **Power BI Projects: Business Analysis of the Flight Status report, HR Analytics, and Sales Dashboard.**
 ![image](Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
-**The Modeling Phase
+
+**The Modeling Phase**
+
 ![image](Data Modeling using Power BI.jpg)
 [Read More](<a href="Flight Report.pbix">Download the full Report here (pdf file)</a>)
 
@@ -58,7 +60,7 @@ The results of the Logistic regression analysis reveal several significant predi
 
 [Read More](https:Interactive and dynamic Dashboard r)
 
-**Sales Dashboard using the Coca-Cola retailer dataset.**
+**MS Excel Projects: Sales Dashboard using the Coca-Cola retailer dataset.**
 
 ![image](Coca-Cola Sales Dashboard.png)
 
