@@ -44,9 +44,11 @@ I provide comprehensive training programs covering data analysis, visualization,
 
 **Power BI Projects: Business Analysis of the Flight Status report, HR Analytics, and Sales Dashboard.**
 ![image](Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
+**The Modeling Phase
+![image](Data Modeling using Power BI.jpg)
 [Read More](<a href="Flight Report.pbix">Download the full Report here (pdf file)</a>)
 
-**Predictive Modeling and Hypothesis Testing using The Crude oil Dataset.**
+**Predictive Modeling and Hypothesis Testing using The Pregnancy Termination Dataset.**
 
 ![image](Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
 
