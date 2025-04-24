@@ -50,7 +50,7 @@ I provide comprehensive training programs covering data analysis, visualization,
 
 **Predictive Modeling and Hypothesis Testing using The Pregnancy Termination Dataset.**
 
-![image](Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
+![image](BI for Flight reporting.jpg)
 
 The results of the Logistic regression analysis reveal several significant predictors of pregnancy termination in Northen and Southern parts of Nigeria.
 
@@ -86,7 +86,7 @@ Fortunately, there was a massive year-over-year growth: Sales rose from $2.42M i
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="ABDULMUMIN Abdulbasit Olatunde-CV.pdf">Download my CV</a></td>
+      <td><a href="ABDULMUMIN Abdulbasit Olatunde - Resume.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
@@ -103,4 +103,4 @@ Fortunately, there was a massive year-over-year growth: Sales rose from $2.42M i
 
 
 
-*Displaying Raw File by Crownstar Data Analytics.
+**Displaying Raw File by Crownstar Data Analytics.**
