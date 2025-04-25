@@ -49,7 +49,7 @@ I provide comprehensive training programs covering data analysis, visualization,
 ![image](Data Modeling using Power BI.jpg)
 [Read More](<a href="Flight Report.pbix">Download the full Report here (pdf file)</a>)
 
-**HR Data Analysiss**
+**HR Data Analysis**
 
 ![image](HR Data Analytics-Home.png)
 ![image](HR Data Analytics-Action.png)
