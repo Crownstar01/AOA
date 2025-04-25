@@ -67,7 +67,7 @@ I provide comprehensive training programs covering data analysis, visualization,
 
 ![image](BI for Flight reporting.jpg)
 
-The results of the Logistic regression analysis reveal several significant predictors of pregnancy termination in Northen and Southern parts of Nigeria.
+The results of the Logistic regression analysis reveal several significant predictors of pregnancy termination in Northern and Southern parts of Nigeria.
 
 [Read More](<a href="The Influence of Pregnancy Termination in Nigeria.pdf">Download the full Report here (pdf file)</a>)
 
