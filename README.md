@@ -41,12 +41,22 @@ I provide comprehensive training programs covering data analysis, visualization,
 *A brief look at some of the exciting projects I’ve been working on.*
 
 **Power BI Projects: Business Analysis of the Flight Status report, HR Analytics, and Sales Dashboard.**
+
 ![image](Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
 
 **The Modeling Phase**
 
 ![image](Data Modeling using Power BI.jpg)
 [Read More](<a href="Flight Report.pbix">Download the full Report here (pdf file)</a>)
+
+**HR Data Analysiss**
+
+![image](HR Data Analytics-Home.png)
+![image](HR Data Analytics-Action.png)
+![image](HR Data Analytics-Details.png)
+![image](HR Data Analytics-Model.png)
+[Read More](<a href="Power BI HR Dashboard.pbix">Download the full Report here (pdf file)</a>)
+
 
 **Sales Analysis**
 
