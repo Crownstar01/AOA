@@ -51,7 +51,7 @@ I provide comprehensive training programs covering data analysis, visualization,
 **Sales Analytics**
 
 ![image](Sales Analytics.png)
-[Read More](<a href="Flight Report.pbix">Download the full Report here (pdf file)</a>)
+[Read More](<a href="Power BI Dashboard.pbix">Download the full Report here (pdf file)</a>)
 
 **Predictive Modeling and Hypothesis Testing using The Pregnancy Termination Dataset.**
 
