@@ -6,6 +6,17 @@ Hi!, I'm AA Olatunde 😊, a Business Intelligence Analyst, Research Analyst, St
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
+As the NOC COORDINATOR with Power BI at IENGINEERING GROUP, my responsibilities include:  
+- Monitoring network performance and site availability in real time to ensure continuous and reliable service delivery.
+- Coordinating incident detection, logging, escalation, and resolution in collaboration with field engineers, vendors, and internal teams.
+- Developing and maintaining Power BI dashboards that visualize outages, SLA performance, MTTR, alarms, and other key operational KPIs.
+- Ensuring seamless access to accurate operational data by integrating multiple data sources and maintaining data integrity within BI reports.
+- Responding promptly to operational inquiries and providing timely updates during outage events to support effective communication.
+- Identifying recurring network issues through data analysis and recommending strategies to enhance network stability and minimize downtime.
+- Facilitating cross-functional collaboration between the energy, transmission, engineering, and operations teams to improve workflow and service delivery.
+- Preparing daily, weekly, and monthly operational performance reports for management and clients to support data-driven decisions.
+- Analyzing outage trends, alarm patterns, and power-related operational data to generate insights that drive proactive network management.
+
 
 As the Business Intelligence Analyst at Nigerian Beverages, my responsibilities include:  
 - Developing reporting and analytics to support sales activities while providing strategic recommendations to enhance the sales process.  
@@ -18,7 +29,7 @@ As the Business Intelligence Analyst at Nigerian Beverages, my responsibilities 
 - Preparing daily, weekly, and monthly one-page reports for management, offering data-driven insights for decision-making.  
 - Analyzing market data to identify patterns and trends.
 
-As the Research Analyst at TechMentor Africa and Crownstar Data Anaytics, I provide consulting and training services for businesses and mentor aspiring analysts by tutoring :
+As the Research Analyst at TechMentor Africa and Crownstar Data Analytics, I provide consulting and training services for businesses and mentor aspiring analysts by tutoring :
 -Introduction to Research Methodologies
 - Research Design and Data Collection Methods
 - Descriptive Statistics and Data Visualization
@@ -26,7 +37,7 @@ As the Research Analyst at TechMentor Africa and Crownstar Data Anaytics, I prov
 - Hypothesis Testing and Inferential Statistics
 - Correlation and Regression Analysis
 - Reporting and Presenting Research Findings
-Using Statistical Software and Tools like Microsoft office tools, Google forms, SPSS and R programming language.
+Using Statistical Software and Tools like Microsoft office tools, Google forms, SPSS, and R programming language.
  
 **- ✅ Data Analytics Consulting.**
 I deliver comprehensive data analysis and customized solutions designed to empower informed decision-making, streamline operations, and enhance overall business performance, ensuring sustainable growth and competitive advantage.
