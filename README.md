@@ -53,16 +53,27 @@ I provide comprehensive training programs covering data analysis, visualization,
 
 **Power BI Projects: Business Analysis of the Network Operation Centre(NOC) report, Flight Status report, HR Analytics, and Sales Dashboard.**
 
-**The Project Overview(NOC)**
+**The Project Overview(O&M)**
+
 ![image](NOC Report.png)
 
-**The Project Summary(NOC)**
+**The Project Summary(O&M)**
+
 ![image](Summary page.png)
 
 **The Data Model(NOC)**
+
 ![image](NOC Report_Data Model.png)
 
-[Read More](<a href="O&M REPORT'25.pbix">Download the full report here (pdf file)</a>)
+[Read More](<a href="O&M REPORT'2025.pbix">Download the full report here (pdf file)</a>)
+
+**The Virtual Audit Report**
+
+![image](Virtual Audit Report.png)
+
+[Read More](<a href="Virtual Audit Dashboard.pbix">Download the full report here (pdf file)</a>)
+
+**The Flight Status Report**
 
 ![image](Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
 
