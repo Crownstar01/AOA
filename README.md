@@ -138,7 +138,7 @@ Fortunately, there was a massive year-over-year growth: Sales rose from $2.42M i
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://www.linkedin.com/in/abdulbasit-abdulmumin8110567538">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/abdulbasitabdulmuminolatunde">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
