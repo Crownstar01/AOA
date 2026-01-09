@@ -1,4 +1,4 @@
-<!--Section 1: Introduce your self-->
+<!--Section 1: Introduce yourself-->
 ## ABOUT ME
 
 Hi!, I'm AA Olatunde 😊, a Business Intelligence Analyst, Research Analyst, Statistician, Educator, and Consultant passionate about transforming data into actionable insights. With expertise spanning sales, operations, finance, and customer service, I help businesses tackle challenges and drive growth.
@@ -65,13 +65,13 @@ I provide comprehensive training programs covering data analysis, visualization,
 
 ![image](NOC Report_Data Model.png)
 
-[Read More](<a href="O&M REPORT'2025.pbix">Download the full report here (pdf file)</a>)
+[Read More](<a href="O&M REPORT'2025.pbix">Download the full report here (pbix file)</a>)
 
 **The Virtual Audit Report**
 
 ![image](Virctual Audit Report.png)
 
-[Read More](<a href="Virtual Audit Dashboard.pbix">Download the full report here (pdf file)</a>)
+[Read More](<a href="Virtual Audit Dashboard.pbix">Download the full report here (pbix file)</a>)
 
 **The Flight Status Report**
 
@@ -80,7 +80,7 @@ I provide comprehensive training programs covering data analysis, visualization,
 **The Modeling Phase**
 
 ![image](Data Modeling using Power BI.jpg)
-[Read More](<a href="Flight Report.pbix">Download the full Report here (pdf file)</a>)
+[Read More](<a href="Flight Report.pbix">Download the full Report here (pbix file)</a>)
 
 **HR Data Analysis**
 
@@ -88,13 +88,13 @@ I provide comprehensive training programs covering data analysis, visualization,
 ![image](HR Data Analytics-Action.png)
 ![image](HR Data Analytics-Details.png)
 ![image](HR Data Analytics-Model.png)
-[Read More](<a href="Power BI HR Dashboard.pbix">Download the full Report here (pdf file)</a>)
+[Read More](<a href="Power BI HR Dashboard.pbix">Download the full Report here (pbix file)</a>)
 
 
 **Sales Analysis**
 
 ![image](Sales Analysis.png)
-[Read More](<a href="Sales Analysis Report-Dashboard.pbix">Download the full Report here (pdf file)</a>)
+[Read More](<a href="Sales Analysis Report-Dashboard.pbix">Download the full Report here (pbix file)</a>)
 
 **Predictive Modeling and Hypothesis Testing using The Pregnancy Termination Dataset.**
 
