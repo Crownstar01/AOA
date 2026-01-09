@@ -69,7 +69,7 @@ I provide comprehensive training programs covering data analysis, visualization,
 
 **The Virtual Audit Report**
 
-![image](Virtual Audit Report.png)
+![image](Virctual Audit Report.png)
 
 [Read More](<a href="Virtual Audit Dashboard.pbix">Download the full report here (pdf file)</a>)
 
