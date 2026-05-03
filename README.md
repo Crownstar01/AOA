@@ -78,7 +78,8 @@ I provide comprehensive training programs covering data analysis, visualization,
 ![image](MEH Dashboard.png)
 
 [Read More](<a href="MEH Project TSA.pbix">Download the full report here (pbix file)</a>)
-[Read More](<a href="MEH Project TSA.pdf">Download the full report here (pdf file)</a>)
+[MEH Dashboard](<a href="MEH Project TSA.pdf">Get the PDF report here </a>)
+
 **The Flight Status Report**
 
 ![image](Interactive and dynamic Dashboard report using Power BI for Flight reporting.jpg)
