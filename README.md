@@ -51,6 +51,11 @@ I provide comprehensive training programs covering data analysis, visualization,
 
 *A brief look at some of the exciting projects I’ve been working on.*
 
+**Weekly Slide Report**
+![image](mhttps://drive.google.com/file/d/1bf1Ui4ckoad9rQqNJVnZGxYtqk6QHcvx/view?usp=drive_link)
+[Read More](<a href=["O&M REPORT'2025.pbix"](https://docs.google.com/presentation/d/1oeybiq0BhA5GHh3-ItRwH-zg-259H08r/edit?usp=sharing&ouid=104185402628098565772&rtpof=true&sd=true)>Download full slide report here (PPT file)</a>)
+
+
 **Power BI Projects: Business Analysis of the Network Operation Centre(NOC) report, Flight Status report, HR Analytics, and Sales Dashboard.**
 
 **The Project Overview(O&M)**
