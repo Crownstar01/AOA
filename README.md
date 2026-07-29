@@ -53,7 +53,8 @@ I provide comprehensive training programs covering data analysis, visualization,
 
 **Weekly Slide Report**
 ![image](mhttps://drive.google.com/file/d/1bf1Ui4ckoad9rQqNJVnZGxYtqk6QHcvx/view?usp=drive_link)
-[Read More](<a href=["O&M REPORT'2025.pbix"](https://docs.google.com/presentation/d/1oeybiq0BhA5GHh3-ItRwH-zg-259H08r/edit?usp=sharing&ouid=104185402628098565772&rtpof=true&sd=true)>Download full slide report here (PPT file)</a>)
+
+[Read More](<a href ="https://docs.google.com/presentation/d/1oeybiq0BhA5GHh3-ItRwH-zg-259H08r/edit?usp=sharing&ouid=104185402628098565772&rtpof=true&sd=true">Download full slide report here (PPT file)</a>)
 
 
 **Power BI Projects: Business Analysis of the Network Operation Centre(NOC) report, Flight Status report, HR Analytics, and Sales Dashboard.**
@@ -70,7 +71,7 @@ I provide comprehensive training programs covering data analysis, visualization,
 
 ![image](NOC Report_Data Model.png)
 
-[Read More](<a href="O&M REPORT'2025.pbix">Download the full report here (pbix file)</a>)
+[Read More](<a href="https://app.powerbi.com/view?r=eyJrIjoiMmQ2MGQ4MDQtMTIxNy00MTgyLWIxYzYtZmNjOGY5Y2IyZTEyIiwidCI6IjdmZWZkYmI3LTU4YjQtNDZiYy05OWQyLTk0YjRjNmU5ZDFjNyJ9"> Download the full report here (pbix file)</a>)
 
 **The Virtual Audit Report**
 
